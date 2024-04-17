@@ -1,0 +1,14 @@
+C:\Users\alesr\RiderProjects\implvi\implvi\bin\Debug\net8.0\implvi.exe
+C:\Users\alesr\RiderProjects\implvi\implvi\bin\Debug\net8.0\implvi.deps.json
+C:\Users\alesr\RiderProjects\implvi\implvi\bin\Debug\net8.0\implvi.runtimeconfig.json
+C:\Users\alesr\RiderProjects\implvi\implvi\bin\Debug\net8.0\implvi.dll
+C:\Users\alesr\RiderProjects\implvi\implvi\bin\Debug\net8.0\implvi.pdb
+C:\Users\alesr\RiderProjects\implvi\implvi\obj\Debug\net8.0\implvi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alesr\RiderProjects\implvi\implvi\obj\Debug\net8.0\implvi.AssemblyInfoInputs.cache
+C:\Users\alesr\RiderProjects\implvi\implvi\obj\Debug\net8.0\implvi.AssemblyInfo.cs
+C:\Users\alesr\RiderProjects\implvi\implvi\obj\Debug\net8.0\implvi.csproj.CoreCompileInputs.cache
+C:\Users\alesr\RiderProjects\implvi\implvi\obj\Debug\net8.0\implvi.dll
+C:\Users\alesr\RiderProjects\implvi\implvi\obj\Debug\net8.0\refint\implvi.dll
+C:\Users\alesr\RiderProjects\implvi\implvi\obj\Debug\net8.0\implvi.pdb
+C:\Users\alesr\RiderProjects\implvi\implvi\obj\Debug\net8.0\implvi.genruntimeconfig.cache
+C:\Users\alesr\RiderProjects\implvi\implvi\obj\Debug\net8.0\ref\implvi.dll
